@@ -21,7 +21,9 @@ Hi! I’m Dije Naufal, an Information Systems undergraduate at Universitas Neger
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeeN4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<h4 align="center">
+  𝙻𝚒𝚗𝚎𝚜 𝚘𝚏 𝙲𝚘𝚍𝚎
+</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeeeN4/JeeeN4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeeeN4/JeeeN4/output/pacman-contribution-graph.svg">
