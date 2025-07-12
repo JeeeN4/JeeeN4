@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="img/Control.gif" width="40px"/>
+  𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 𝙲𝚘𝚍𝚒𝚗𝚐 𝙿𝚕𝚊𝚢𝚐𝚛𝚘𝚞𝚗𝚍!
+  <img src="img/Console.gif" width="40px" />
+</h1>
 
+![playing computer](img/playing-computer.gif)
 <!--
 **JeeeN4/JeeeN4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
